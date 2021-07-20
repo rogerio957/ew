@@ -1,0 +1,28 @@
+
+#EXTM3U
+#EXTINF:-1.Times Square Cams - EarthCam	
+https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1886954434.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwMjmM1XfjYHGmnNzbBJYcS6B8XQXjXXtApM%2B6LBHJlWs
+#EXTINF:-2.https://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd
+https://videos-3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w466020607.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwMjmM1XfjYHGmnNzbBJYcS6B8XQXjXXtApM%2B6LBHJlWs
+#EXTINF:-3.Times Square
+https://videos-3.earthcam.com/fecnetwork/15559.flv/chunklist_w1302947444.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwMjmM1XfjYHGmnNzbBJYcS6B8XQXjXXtApM%2B6LBHJlWs
+#EXTINF:-4.
+https://videos-3.earthcam.com/fecnetwork/21869.flv/chunklist_w1186383082.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwNyKu0blGi8HpKTd%2BGNCm%2BysNMgmvDWKcu9GneHkFBkL	
+#EXTINF:-5.
+https://videos-3.earthcam.com/fecnetwork/4054.flv/chunklist_w1954355076.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwMGTzaSspnimUMQYHPm4oRyh7gkWTFh2TFyJOOvNa35m
+#EXTINF:-6.
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.xnbwdi1.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w2117802498.m3u8
+#EXTINF:-7.	
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.vtcldi6.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w247123127.m3u8
+#EXTINF:-8.
+https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123850982.m3u8
+#EXTINF:-9.
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1529413280.m3u8
+#EXTINF:-10.
+https://5a7d54e35f9d2.streamlock.net/aquariuscenter/aquariuscenter.stream/chunklist_w1553711266.m3u8
+#EXTINF:-10.
+http://221.149.70.187:8000/
+#EXTINF:-11.
+http://118.43.225.183:5000/
+#EXTINF:-12.	
+https://frn.rtsp.me/bcFq4lip0L1t8J1FWJIrnw/1626859574/hls/8th9S69b.m3u8
